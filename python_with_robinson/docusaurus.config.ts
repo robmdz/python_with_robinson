@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Python with Robinson',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'This is the course I wish I had found when I started my programming journey.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -85,7 +85,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Course',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
