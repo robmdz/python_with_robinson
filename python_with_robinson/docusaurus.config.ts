@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Python with Robinson',
+  title: 'Python with Rob',
   tagline: 'This is the course I wish I had found when I started my programming journey.',
   favicon: 'img/favicon.ico',
 
@@ -75,7 +75,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Python with Robinson',
+      title: 'Python with Rob',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',

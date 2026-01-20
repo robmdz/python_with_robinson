@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Projects',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/Screenshot-From-2026-01-19-22-52-35.svg').default,
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
